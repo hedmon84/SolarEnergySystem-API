@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolarEnergySystem.Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{F39AB9CC-E336-4DAD-BF58-FB94347B2440}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{FDE867B8-557F-4CCD-83BF-C6F89F529631}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{34F0D4D8-CB65-4155-A20C-F89787D6EC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34F0D4D8-CB65-4155-A20C-F89787D6EC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34F0D4D8-CB65-4155-A20C-F89787D6EC13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE867B8-557F-4CCD-83BF-C6F89F529631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE867B8-557F-4CCD-83BF-C6F89F529631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE867B8-557F-4CCD-83BF-C6F89F529631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE867B8-557F-4CCD-83BF-C6F89F529631}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{E41DC3CD-B7A5-4EFB-9093-349531391DCD} = {1D514BA1-C821-4D52-831F-2AC50896778E}
 		{6ED74F69-E625-44B3-BEEB-7D4A6DFB3428} = {1D514BA1-C821-4D52-831F-2AC50896778E}
 		{34F0D4D8-CB65-4155-A20C-F89787D6EC13} = {1D514BA1-C821-4D52-831F-2AC50896778E}
+		{FDE867B8-557F-4CCD-83BF-C6F89F529631} = {F39AB9CC-E336-4DAD-BF58-FB94347B2440}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C0D4D63E-5AA7-4215-B766-6802F4B5A615}
